@@ -1,6 +1,6 @@
 # jagi_app
 
-A new Flutter project.
+Online store, helps people to find the best clothes. 
 
 ## Using: Firebase, Provider, MVVM pattern. 
 
