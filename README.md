@@ -2,8 +2,7 @@
 
 A new Flutter project.
 
-## Using
-# Firebase, Provider, MVVM pattern. 
+## Using: Firebase, Provider, MVVM pattern. 
 
 The directories structure of the app in the image below:
 
