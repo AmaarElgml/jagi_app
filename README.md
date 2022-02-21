@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Using
+# Firebase, Provider, MVVM pattern. 
 
-This project is a starting point for a Flutter application.
+The directories structure of the app in the image below:
 
-A few resources to get you started if this is your first Flutter project:
+![Directories Structure](https://user-images.githubusercontent.com/62309234/154876561-40b943a1-bd74-4709-8d4a-5ce74561860a.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
