@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922960742018",
+    "project_id": "jagi-app",
+    "storage_bucket": "jagi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922960742018:android:02429381f276e8e806969b",
+        "android_client_info": {
+          "package_name": "com.example.jagi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922960742018-4km0n7nk8ut1ui4c1g191itllsgk3bi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM79wA8fvFG4Y4j3pQEnyv9tdLsMe7DfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922960742018-4km0n7nk8ut1ui4c1g191itllsgk3bi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
